@@ -1,0 +1,190 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Feb 2019 10:25:16 at https://certy.px-lab.com/developer +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://certy.px-lab.com/developer -O1 "C:\My Web Sites\RSportfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:25:19	Warning: 	Note: due to https://certy.px-lab.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+10:26:15	Warning: 	Retry after error -4 (Connect Error) at link https://s7.addthis.com/js/300/addthis_widget.js (from https://certy.px-lab.com/developer)
+10:30:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 21047): https://certy.px-lab.com/florist/wp-content/cache/minify/3/ad415.js
+10:31:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 9488): https://certy.px-lab.com/architect/wp-content/uploads/sites/4/2017/05/Certy_architect_hover-195x195.jpg
+10:40:43	Error: 	"Not Found" (404) at link https://certy.px-lab.com/wp-content/themes/certy/assets/css/mCSB_buttons.png (from https://certy.px-lab.com/developer/wp-content/cache/minify/6/957c3.css)
+10:40:43	Warning: 	Retry after error -4 (Connect Error) at link https://s7.addthis.com/js/300/addthis_widget.js (from https://certy.px-lab.com/developer)
+10:40:44	Warning: 	Moved Permanently for https://certy.px-lab.com/developer/?p=54
+10:40:44	Warning: 	File has moved from https://certy.px-lab.com/developer/?p=54 to https://certy.px-lab.com/developer/blog/
+10:41:00	Error: 	"Method Not Allowed" (405) at link https://certy.px-lab.com/developer/xmlrpc.php (from https://certy.px-lab.com/developer/2017/06/20/how-to-create-google-font-developer-api-key/)
+10:41:00	Warning: 	Moved Permanently for https://certy.px-lab.com/developer/?p=86
+10:41:00	Warning: 	File has moved from https://certy.px-lab.com/developer/?p=86 to https://certy.px-lab.com/developer/2017/06/20/how-to-create-google-font-developer-api-key/
+10:41:12	Warning: 	Moved Permanently for https://certy.px-lab.com/developer/?p=84
+10:41:12	Warning: 	File has moved from https://certy.px-lab.com/developer/?p=84 to https://certy.px-lab.com/developer/2017/06/20/how-to-create-google-font-api-key/
+10:41:12	Warning: 	Moved Permanently for https://certy.px-lab.com/developer/?p=80
+10:41:12	Warning: 	File has moved from https://certy.px-lab.com/developer/?p=80 to https://certy.px-lab.com/developer/2017/06/20/how-to-create-online-cv-and-resume/
+10:56:36	Error: 	"Error when decompressing" (-1) at link https://certy.px-lab.com/doctor/certy_portfolio/certy-сactus/ (from https://certy.px-lab.com/doctor)
+10:57:14	Error: 	"Connect Error" (-4) after 2 retries at link https://s7.addthis.com/js/300/addthis_widget.js (from https://certy.px-lab.com/developer)
+10:57:24	Warning: 	Moved Permanently for https://certy.px-lab.com/designer/?p=54
+10:57:24	Warning: 	File has moved from https://certy.px-lab.com/designer/?p=54 to https://certy.px-lab.com/designer/blog/
+10:57:25	Error: 	"Forbidden" (403) at link https://certy.px-lab.com/designer/wp-content/plugins/appointment-calendar/calendar/ (from https://certy.px-lab.com/designer/wp-content/plugins/appointment-calendar/calendar/calendar_form.php?objname=date1&selected_day=07&selected_month=02&selected_year=2019&year_start=2019&year_end=2035&dp=0&da1=1549411200&da2=2051222400&sna=&aut=&frm=&tar=&inp=1&fmt=F%20j,%20Y&dis=&pr1=&pr2=&prv=&pth=https://certy.px-lab.com/designer/wp-content/plugins/appointment-calendar/calendar/&spd=[[],[],[]]&spt=0&och=myChanged%28%29&str=0&rtl=0&wks=&int=1&hid=1&hdt=1000&hl=en_US)
+10:57:25	Error: 	"Method Not Allowed" (405) at link https://certy.px-lab.com/designer/xmlrpc.php (from https://certy.px-lab.com/designer/2017/06/20/how-to-create-google-font-developer-api-key/)
+10:57:25	Warning: 	Moved Permanently for https://certy.px-lab.com/designer/?p=86
+10:57:25	Warning: 	File has moved from https://certy.px-lab.com/designer/?p=86 to https://certy.px-lab.com/designer/2017/06/20/how-to-create-google-font-developer-api-key/
+10:57:33	Warning: 	Moved Permanently for https://certy.px-lab.com/designer/?p=84
+10:57:33	Warning: 	File has moved from https://certy.px-lab.com/designer/?p=84 to https://certy.px-lab.com/designer/2017/06/20/how-to-create-google-font-api-key/
+10:57:33	Warning: 	Moved Permanently for https://certy.px-lab.com/designer/?p=80
+10:57:33	Warning: 	File has moved from https://certy.px-lab.com/designer/?p=80 to https://certy.px-lab.com/designer/2017/06/20/how-to-create-online-cv-and-resume/
+10:57:38	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=54
+10:57:38	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=54 to https://certy.px-lab.com/florist/blog/
+10:57:39	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=113
+10:57:39	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=113 to https://certy.px-lab.com/florist/calendar/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=25
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=25 to https://certy.px-lab.com/florist/certy_portfolio/poster/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=30
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=30 to https://certy.px-lab.com/florist/certy_portfolio/ceramic-bottle/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=28
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=28 to https://certy.px-lab.com/florist/certy_portfolio/paper-cup/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=34
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=34 to https://certy.px-lab.com/florist/certy_portfolio/abstract-blue/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=33
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=33 to https://certy.px-lab.com/florist/certy_portfolio/black-bag/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=32
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=32 to https://certy.px-lab.com/florist/certy_portfolio/focus-on-your-own/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=31
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=31 to https://certy.px-lab.com/florist/certy_portfolio/sketch-mockup/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=29
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=29 to https://certy.px-lab.com/florist/certy_portfolio/bag-mockup/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=62
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=62 to https://certy.px-lab.com/florist/certy_references/bruce-williams/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=66
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=66 to https://certy.px-lab.com/florist/certy_references/66/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=67
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=67 to https://certy.px-lab.com/florist/certy_references/simona-hoskin/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=78
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=78 to https://certy.px-lab.com/florist/certy_timeline/freelancer/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=77
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=77 to https://certy.px-lab.com/florist/certy_timeline/981-flowers-llc/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=76
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=76 to https://certy.px-lab.com/florist/certy_timeline/mega-flora-service/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=79
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=79 to https://certy.px-lab.com/florist/certy_timeline/institute-le-decoration-france/
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=81
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=81 to https://certy.px-lab.com/florist/certy_timeline/landscape-design-university-london/
+10:57:40	Error: 	"Method Not Allowed" (405) at link https://certy.px-lab.com/florist/xmlrpc.php (from https://certy.px-lab.com/florist/2017/06/20/how-to-create-google-font-developer-api-key/)
+10:57:40	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=126
+10:57:40	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=126 to https://certy.px-lab.com/florist/2017/06/20/how-to-create-google-font-developer-api-key/
+10:57:46	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=122
+10:57:46	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=122 to https://certy.px-lab.com/florist/2017/06/20/how-to-create-google-font-api-key/
+10:57:46	Warning: 	Moved Permanently for https://certy.px-lab.com/florist/?p=124
+10:57:46	Warning: 	File has moved from https://certy.px-lab.com/florist/?p=124 to https://certy.px-lab.com/florist/2017/06/20/how-to-create-online-cv-and-resume/
+10:57:51	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=27
+10:57:51	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=27 to https://certy.px-lab.com/architect/about/
+10:57:51	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=30
+10:57:51	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=30 to https://certy.px-lab.com/architect/background/
+10:57:51	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=71
+10:57:51	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=71 to https://certy.px-lab.com/architect/contacts/
+10:57:51	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=52
+10:57:51	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=52 to https://certy.px-lab.com/architect/certy_portfolio/certy-portfolio-project-5/
+10:57:51	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=51
+10:57:51	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=51 to https://certy.px-lab.com/architect/certy_portfolio/project-certy-4/
+10:57:51	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=50
+10:57:51	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=50 to https://certy.px-lab.com/architect/certy_portfolio/design-certy-3/
+10:57:51	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=49
+10:57:51	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=49 to https://certy.px-lab.com/architect/certy_portfolio/certy-building-2/
+10:57:51	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=48
+10:57:51	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=48 to https://certy.px-lab.com/architect/certy_portfolio/certy-building-1/
+10:57:51	Error: 	"Method Not Allowed" (405) at link https://certy.px-lab.com/architect/xmlrpc.php (from https://certy.px-lab.com/architect/2017/06/20/how-to-create-google-font-developer-api-key/)
+10:57:51	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=141
+10:57:51	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=141 to https://certy.px-lab.com/architect/2017/06/20/how-to-create-google-font-developer-api-key/
+10:57:52	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=136
+10:57:52	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=136 to https://certy.px-lab.com/architect/2017/06/20/how-to-create-google-font-api-key/
+10:57:52	Warning: 	Moved Permanently for https://certy.px-lab.com/architect/?p=138
+10:57:52	Warning: 	File has moved from https://certy.px-lab.com/architect/?p=138 to https://certy.px-lab.com/architect/2017/06/20/how-to-create-online-cv-and-resume/
+10:57:52	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=55
+10:57:52	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=55 to https://certy.px-lab.com/attorney/blog/
+10:58:07	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=50
+10:58:07	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=50 to https://certy.px-lab.com/attorney/calendar/
+10:58:08	Error: 	"Method Not Allowed" (405) at link https://certy.px-lab.com/attorney/xmlrpc.php (from https://certy.px-lab.com/attorney/2017/06/20/how-to-create-google-font-developer-api-key/)
+10:58:08	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=99
+10:58:08	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=99 to https://certy.px-lab.com/attorney/2017/06/20/how-to-create-google-font-developer-api-key/
+10:58:13	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=94
+10:58:13	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=94 to https://certy.px-lab.com/attorney/2017/06/20/how-to-create-google-font-api-key/
+10:58:13	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=25
+10:58:13	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=25 to https://certy.px-lab.com/attorney/certy_timeline/bebsi-v-goga-gola/
+10:58:13	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=22
+10:58:13	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=22 to https://certy.px-lab.com/attorney/certy_timeline/abble-vs-sansung/
+10:58:13	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=24
+10:58:13	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=24 to https://certy.px-lab.com/attorney/certy_timeline/joojle-v-amazom/
+10:58:13	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=96
+10:58:13	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=96 to https://certy.px-lab.com/attorney/2017/06/20/how-to-create-online-cv-and-resume/
+10:58:17	Warning: 	Moved Permanently for https://certy.px-lab.com/dj/?p=54
+10:58:17	Warning: 	File has moved from https://certy.px-lab.com/dj/?p=54 to https://certy.px-lab.com/dj/blog/
+10:58:17	Error: 	"Method Not Allowed" (405) at link https://certy.px-lab.com/dj/xmlrpc.php (from https://certy.px-lab.com/dj/2017/06/20/how-to-create-google-font-developer-api-key/)
+10:58:17	Warning: 	Moved Permanently for https://certy.px-lab.com/dj/?p=86
+10:58:17	Warning: 	File has moved from https://certy.px-lab.com/dj/?p=86 to https://certy.px-lab.com/dj/2017/06/20/how-to-create-google-font-developer-api-key/
+10:58:23	Warning: 	Moved Permanently for https://certy.px-lab.com/dj/?p=84
+10:58:23	Warning: 	File has moved from https://certy.px-lab.com/dj/?p=84 to https://certy.px-lab.com/dj/2017/06/20/how-to-create-google-font-api-key/
+10:58:23	Warning: 	Moved Permanently for https://certy.px-lab.com/dj/?p=80
+10:58:23	Warning: 	File has moved from https://certy.px-lab.com/dj/?p=80 to https://certy.px-lab.com/dj/2017/06/20/how-to-create-online-cv-and-resume/
+10:58:28	Warning: 	Moved Permanently for https://certy.px-lab.com/teacher/?p=54
+10:58:28	Warning: 	File has moved from https://certy.px-lab.com/teacher/?p=54 to https://certy.px-lab.com/teacher/blog/
+10:58:29	Error: 	"Forbidden" (403) at link https://certy.px-lab.com/teacher/wp-content/plugins/appointment-calendar/calendar/ (from https://certy.px-lab.com/teacher/wp-content/plugins/appointment-calendar/calendar/calendar_form.php?objname=date1&selected_day=07&selected_month=02&selected_year=2019&year_start=2019&year_end=2035&dp=0&da1=1549411200&da2=2051222400&sna=&aut=&frm=&tar=&inp=1&fmt=F%20j,%20Y&dis=&pr1=&pr2=&prv=&pth=https://certy.px-lab.com/teacher/wp-content/plugins/appointment-calendar/calendar/&spd=[[],[],[]]&spt=0&och=myChanged%28%29&str=0&rtl=0&wks=&int=1&hid=1&hdt=1000&hl=en_US)
+10:58:29	Error: 	"Method Not Allowed" (405) at link https://certy.px-lab.com/teacher/xmlrpc.php (from https://certy.px-lab.com/teacher/2017/06/20/how-to-create-google-font-developer-api-key/)
+10:58:29	Warning: 	Moved Permanently for https://certy.px-lab.com/teacher/?p=86
+10:58:29	Warning: 	File has moved from https://certy.px-lab.com/teacher/?p=86 to https://certy.px-lab.com/teacher/2017/06/20/how-to-create-google-font-developer-api-key/
+10:58:35	Warning: 	Moved Permanently for https://certy.px-lab.com/teacher/?p=84
+10:58:35	Warning: 	File has moved from https://certy.px-lab.com/teacher/?p=84 to https://certy.px-lab.com/teacher/2017/06/20/how-to-create-google-font-api-key/
+10:58:35	Warning: 	Moved Permanently for https://certy.px-lab.com/teacher/?p=80
+10:58:35	Warning: 	File has moved from https://certy.px-lab.com/teacher/?p=80 to https://certy.px-lab.com/teacher/2017/06/20/how-to-create-online-cv-and-resume/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=54
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=54 to https://certy.px-lab.com/doctor/blog/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=13
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=13 to https://certy.px-lab.com/doctor/certy_timeline/creative-designer/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=17
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=17 to https://certy.px-lab.com/doctor/certy_timeline/designer/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=18
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=18 to https://certy.px-lab.com/doctor/certy_timeline/junior-designer/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=63
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=63 to https://certy.px-lab.com/doctor/certy_timeline/design-university/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=64
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=64 to https://certy.px-lab.com/doctor/certy_timeline/school-of-creative-design/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=25
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=25 to https://certy.px-lab.com/doctor/certy_references/edwin-ballard/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=24
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=24 to https://certy.px-lab.com/doctor/certy_references/franklin-may/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=19
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=19 to https://certy.px-lab.com/doctor/certy_references/hattie-maxwell/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=76
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=76 to https://certy.px-lab.com/doctor/certy_portfolio/certy-decor/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=72
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=72 to https://certy.px-lab.com/doctor/certy_portfolio/certy-art/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=75
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=75 to https://certy.px-lab.com/doctor/certy_portfolio/certy-garden/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=74
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=74 to https://certy.px-lab.com/doctor/certy_portfolio/certy-tree/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=65
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=65 to https://certy.px-lab.com/doctor/certy_portfolio/certy-item-1/
+10:58:41	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=77
+10:58:41	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=77 to https://certy.px-lab.com/doctor/certy_portfolio/certy-decoration/
+10:58:42	Error: 	"Forbidden" (403) at link https://certy.px-lab.com/doctor/wp-content/plugins/appointment-calendar/calendar/ (from https://certy.px-lab.com/doctor/wp-content/plugins/appointment-calendar/calendar/calendar_form.php?objname=date1&selected_day=07&selected_month=02&selected_year=2019&year_start=2019&year_end=2035&dp=0&da1=1549411200&da2=2051222400&sna=&aut=&frm=&tar=&inp=1&fmt=F%20j,%20Y&dis=&pr1=&pr2=&prv=&pth=https://certy.px-lab.com/doctor/wp-content/plugins/appointment-calendar/calendar/&spd=[[],[],[]]&spt=0&och=myChanged%28%29&str=0&rtl=0&wks=&int=1&hid=1&hdt=1000&hl=en_US)
+10:58:42	Error: 	"Method Not Allowed" (405) at link https://certy.px-lab.com/doctor/xmlrpc.php (from https://certy.px-lab.com/doctor/2017/06/20/how-to-create-google-font-developer-api-key/)
+10:58:42	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=86
+10:58:42	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=86 to https://certy.px-lab.com/doctor/2017/06/20/how-to-create-google-font-developer-api-key/
+10:58:49	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=84
+10:58:49	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=84 to https://certy.px-lab.com/doctor/2017/06/20/how-to-create-google-font-api-key/
+10:58:49	Warning: 	Moved Permanently for https://certy.px-lab.com/doctor/?p=80
+10:58:49	Warning: 	File has moved from https://certy.px-lab.com/doctor/?p=80 to https://certy.px-lab.com/doctor/2017/06/20/how-to-create-online-cv-and-resume/
+10:58:57	Error: 	"Forbidden" (403) at link https://certy.px-lab.com/florist/wp-content/plugins/appointment-calendar/calendar/ (from https://certy.px-lab.com/florist/wp-content/plugins/appointment-calendar/calendar/calendar_form.php?objname=date1&selected_day=07&selected_month=02&selected_year=2019&year_start=2019&year_end=2035&dp=0&da1=1549411200&da2=2051222400&sna=&aut=&frm=&tar=&inp=1&fmt=F%20j,%20Y&dis=&pr1=&pr2=&prv=&pth=https://certy.px-lab.com/florist/wp-content/plugins/appointment-calendar/calendar/&spd=[[],[],[]]&spt=0&och=myChanged%28%29&str=0&rtl=0&wks=&int=1&hid=1&hdt=1000&hl=en_US)
+10:59:00	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=63
+10:59:00	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=63 to https://certy.px-lab.com/attorney/2017/06/15/best-courts-in-the-world/
+10:59:00	Warning: 	Moved Permanently for https://certy.px-lab.com/attorney/?p=57
+10:59:00	Warning: 	File has moved from https://certy.px-lab.com/attorney/?p=57 to https://certy.px-lab.com/attorney/2017/06/15/what-need-to-check-first-in-contracts/
+11:00:39	Error: 	"Forbidden" (403) at link https://certy.px-lab.com/attorney/wp-content/plugins/appointment-calendar/calendar/ (from https://certy.px-lab.com/attorney/wp-content/plugins/appointment-calendar/calendar/calendar_form.php?objname=date1&selected_day=07&selected_month=02&selected_year=2019&year_start=2019&year_end=2035&dp=0&da1=1549411200&da2=2051222400&sna=&aut=&frm=&tar=&inp=1&fmt=F%20j,%20Y&dis=&pr1=&pr2=&prv=&pth=https://certy.px-lab.com/attorney/wp-content/plugins/appointment-calendar/calendar/&spd=[[],[],[]]&spt=0&och=myChanged%28%29&str=0&rtl=0&wks=&int=1&hid=1&hdt=1000&hl=en_US)
+11:00:44	Warning: 	Moved Permanently for certy.px-lab.com/robots.txt
+11:00:44	Warning: 	Redirected link is identical because of 'URL Hack' option: certy.px-lab.com/robots.txt and https://certy.px-lab.com/robots.txt
+11:00:44	Warning: 	Warning moved treated for certy.px-lab.com/robots.txt (real one is https://certy.px-lab.com/robots.txt)
+11:00:44	Warning: 	Moved Permanently for certy.px-lab.com/designer/icons/
+11:00:44	Warning: 	Redirected link is identical because of 'URL Hack' option: certy.px-lab.com/designer/icons/ and https://certy.px-lab.com/designer/icons/
+11:00:44	Warning: 	File has moved from certy.px-lab.com/designer/icons/ to https://certy.px-lab.com/designer/icons/
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 minutes 29 seconds : 1235 links scanned, 1138 files written (33298664 bytes overall) [19558554 bytes received at 9186 bytes/sec], 19273559 bytes transferred using HTTP compression in 410 files, ratio 24%, 2.6 requests per connection
+(16 errors, 163 warnings, 0 messages)
